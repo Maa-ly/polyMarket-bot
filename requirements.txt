@@ -1,0 +1,6 @@
+py-clob-client @ git+https://github.com/Polymarket/py-clob-client.git@v0.20.0
+httpx>=0.27.0
+python-dotenv>=1.0.1
+PyYAML>=6.0.1
+tenacity>=8.2.3
+streamlit>=1.33.0
